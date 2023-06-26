@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Brian-CodeNation/Week6_Day1_API_-_Modal.git/static/css/main.bf04f92f.css",
+    "main.js": "/Brian-CodeNation/Week6_Day1_API_-_Modal.git/static/js/main.2669ec67.js",
+    "static/media/rating_blue.png": "/Brian-CodeNation/Week6_Day1_API_-_Modal.git/static/media/rating_blue.7f298aceb73acabd39dd.png",
+    "index.html": "/Brian-CodeNation/Week6_Day1_API_-_Modal.git/index.html",
+    "main.bf04f92f.css.map": "/Brian-CodeNation/Week6_Day1_API_-_Modal.git/static/css/main.bf04f92f.css.map",
+    "main.2669ec67.js.map": "/Brian-CodeNation/Week6_Day1_API_-_Modal.git/static/js/main.2669ec67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf04f92f.css",
+    "static/js/main.2669ec67.js"
+  ]
+}
